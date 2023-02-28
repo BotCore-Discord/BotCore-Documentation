@@ -1,5 +1,5 @@
 # BotCore
-BotCore is a multi-purpose Discord bot written in JavaScript library. It is designed to provide various functionalities such as moderation, leveling, giveaways, statistics, monetization, and more to Discord servers.
+BotCore is a multi-purpose Discord bot written in JavaScript. It is designed to provide various functionalities such as moderation, leveling, giveaways, statistics, monetization, and more to Discord servers.
 
 # Features
 BotCore is equipped with various features, some of which include:
