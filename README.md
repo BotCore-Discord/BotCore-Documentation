@@ -15,10 +15,11 @@ Please note that BotCore is not yet released=. However, once released, you can i
 # Project Developers
 The following section lists the developers of the project:
 
-#### Marshall Goff
+### Marshall Goff
 Marshall Goff is the founder of BotCore. He has been a programmer for 4 years and has much experience in C++. Marshall is passionate about developing Discord bots and providing useful features to Discord communities.
 
-About Me
+#### About Me
+
 I am a self-taught programmer who has been programming for 4 years. My main programming language is C++, and I have experience in developing Discord bots using the D++ library. I am passionate about programming and always looking to improve my skills.
 
 # Disclaimer
